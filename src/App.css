@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  font-family: 'Pacifico', cursive;
+  color: aqua;
+  font-size: xx-large;
+}
